@@ -1,6 +1,6 @@
 Home Assistant Custom Integration for Midea Group(Hualing, Senville, Klimaire, AirCon, Century, Pridiom, Thermocore, Comfee, Alpine Home Air, Artel, Beko, Electrolux, Galactic, Idea, Inventor, Kaisai, Mitsui, Mr. Cool, Neoclima, Olimpia Splendid, Pioneer, QLIMA, Royal Clima, Qzen, Toshiba, Carrier, Goodman, Friedrich, Samsung, Kenmore, Trane, Lennox, LG and much more) Air Conditioners via LAN.
 
-Tested with Home Assistant 2021.7.2.
+Tested with Home Assistant 2023.10.1.
 
 ## Attention!!!
 Version >= 0.1.27, The ENTITY ID of the climate devices has been changed. if you have any problem with an old entity being "unavailable", you should check whats the new ID name of the entity and change it in lovlace.
